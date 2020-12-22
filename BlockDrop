@@ -1,3 +1,8 @@
+targetPlayer true
+targetMobs false
+targetAnimals false
+targetInvisible true
+targetDead true
 Fucker Block 26
 Fucker ThroughWalls None
 Fucker Range 5.0
