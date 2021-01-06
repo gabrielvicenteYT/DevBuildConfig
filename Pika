@@ -61,7 +61,7 @@ KillAura Priority LivingTime
 KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+KillAura AutoBlock Off
 KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
