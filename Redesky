@@ -114,7 +114,7 @@ Scaffold MaxTurnSpeed 180.0
 Scaffold MinTurnSpeed 180.0
 Scaffold Zitter false
 Scaffold Timer 0.80
-Scaffold SpeedModifier 0.0
+Scaffold SpeedModifier 1.0
 Scaffold Slow false
 Scaffold SameY false
 Scaffold SafeWalk true
