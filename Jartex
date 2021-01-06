@@ -94,7 +94,7 @@ Scaffold Eagle EdgeDistance
 Scaffold BlocksToEagle 0
 Scaffold EagleEdgeDistance 0.34
 Scaffold ExpandLength 1
-Scaffold RotationStrafe false
+Scaffold RotationStrafe true
 Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
@@ -124,6 +124,7 @@ Velocity Horizontal 0.45
 Velocity Vertical 0.0
 Velocity Mode AAC
 Velocity toggle true
+chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &4KillAura &ehitting.
 chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &206.01.2021
