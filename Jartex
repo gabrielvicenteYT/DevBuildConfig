@@ -93,7 +93,6 @@ Scaffold PlaceTiming Pre
 Scaffold Eagle EdgeDistance
 Scaffold BlocksToEagle 0
 Scaffold EagleEdgeDistance 0.34
-Scaffold ExpandLength 1
 Scaffold RotationStrafe true
 Scaffold RotationMode Static
 Scaffold SilentRotation true
