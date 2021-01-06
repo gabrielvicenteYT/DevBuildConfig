@@ -12,7 +12,7 @@ Fucker SwitchDelay 250
 Fucker Swing true
 Fucker Rotations true
 Fucker Surroundings false
-Fucker toggle true
+Fucker toggle false
 InventoryMove Undetectable false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
@@ -91,7 +91,7 @@ Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe true
-Scaffold toggle true
+Scaffold toggle false
 Speed Mode Matrix
 Sprint AllDirections false
 Sprint Blindness true
