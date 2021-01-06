@@ -35,7 +35,7 @@ ChestStealer AutoCloseMaxDelay 50
 ChestStealer AutoCloseMinDelay 50
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
-ChestStealer toggle true
+ChestStealer toggle false
 FastUse Mode NCP
 FastUse toggle true
 InventoryCleaner MaxDelay 75
