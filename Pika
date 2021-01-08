@@ -62,12 +62,12 @@ KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock Off
-KillAura RayCast true
+KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
-KillAura MaxTurnSpeed 180.0
-KillAura MinTurnSpeed 180.0
+KillAura MaxTurnSpeed 60.0
+KillAura MinTurnSpeed 60.0
 KillAura SilentRotation true
 KillAura Strafe Silent
 KillAura RandomCenter false
@@ -124,6 +124,7 @@ Velocity Vertical 0.0
 Velocity Mode AAC
 Velocity toggle true
 chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &4KillAura &ehitting.
+chat Don't use &4KillAura &ewhile using &4Speed&e.
 chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &206.01.2021
