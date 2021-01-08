@@ -74,7 +74,7 @@ KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 100
 KillAura Predict true
-KillAura MaxPredictSize 0.5
+KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 0.5
 KillAura FailRate 0.1
 KillAura FakeSwing false
@@ -127,4 +127,4 @@ chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &
 chat Don't use &4KillAura &ewhile using &4Speed&e.
 chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &206.01.2021
+chat &3Latest &3Update &208.01.2021
