@@ -84,33 +84,30 @@ Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold PlaceableDelay false
-Scaffold AutoBlock Switch
+Scaffold AutoBlock Spoof
 Scaffold Sprint false
 Scaffold Swing true
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle EdgeDistance
-Scaffold BlocksToEagle 0
-Scaffold EagleEdgeDistance 0.34
-Scaffold RotationStrafe true
+Scaffold Eagle Off
+Scaffold RotationStrafe false
 Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
-Scaffold KeepRotationLength 20
 Scaffold StaticPitchOffset 81.99566
 Scaffold StaticYawOffset -89.3
 Scaffold xzRange 0.1
 Scaffold yRange 0.1
 Scaffold SearchAccuracy 8
-Scaffold MaxTurnSpeed 180.0
-Scaffold MinTurnSpeed 180.0
+Scaffold MaxTurnSpeed 20.0
+Scaffold MinTurnSpeed 20.0
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.0
-Scaffold Slow false
+Scaffold Slow true
+Scaffold SlowSpeed 0.55
 Scaffold SameY false
-Scaffold SafeWalk false
+Scaffold SafeWalk true
 Scaffold AirSafe true
 Speed Mode Matrix
 Sprint AllDirections false
@@ -127,4 +124,4 @@ chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &
 chat Don't use &4KillAura &ewhile using &4Speed&e.
 chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &208.01.2021
+chat &3Latest &3Update &209.01.2021
