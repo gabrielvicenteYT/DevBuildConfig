@@ -17,6 +17,10 @@ AntiBot NeedHit true
 AntiBot DuplicateInWorld false
 AntiBot DuplicateInTab false
 AntiBot toggle false
+InventoryMove Undetectable true
+InventoryMove AACAdditionPro false
+InventoryMove NoMoveClicks false
+InventoryMove toggle true
 ChestStealer MaxDelay 35
 ChestStealer MinDelay 35
 ChestStealer TakeRandomized false
