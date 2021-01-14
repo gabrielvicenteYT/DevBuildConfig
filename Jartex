@@ -17,14 +17,6 @@ AntiBot NeedHit true
 AntiBot DuplicateInWorld false
 AntiBot DuplicateInTab false
 AntiBot toggle false
-AutoArmor MaxDelay 45
-AutoArmor MinDelay 45
-AutoArmor InvOpen true
-AutoArmor SimulateInventory false
-AutoArmor NoMove false
-AutoArmor ItemDelay 25
-AutoArmor Hotbar true
-AutoArmor toggle true
 ChestStealer MaxDelay 35
 ChestStealer MinDelay 35
 ChestStealer TakeRandomized false
@@ -36,21 +28,6 @@ ChestStealer AutoCloseMinDelay 50
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
 ChestStealer toggle false
-FastUse Mode NCP
-FastUse toggle true
-InventoryCleaner MaxDelay 75
-InventoryCleaner MinDelay 75
-InventoryCleaner InvOpen true
-InventoryCleaner SimulateInventory false
-InventoryCleaner NoMove false
-InventoryCleaner IgnoreVehicles false
-InventoryCleaner Hotbar true
-InventoryCleaner RandomSlot false
-InventoryCleaner Sort true
-InventoryCleaner ItemDelay 25
-InveotoryCleaner toggle true
-InventoryMove NoDetectable true
-InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
@@ -109,19 +86,18 @@ Scaffold SlowSpeed 0.55
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe true
-Speed Mode Matrix
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Velocity Horizontal 0.45
+Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode AAC
 Velocity toggle true
 chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &4KillAura &ehitting.
-chat Don't use &4KillAura &ewhile using &4Speed&e.
 chat Don't go diagonally with &4Scaffold&e.
+chat &4AutoArmor&e, &4InventoryMove&e, &4InventoryCleaner&e, &4Speed&e have been patched. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &209.01.2021
+chat &3Latest &3Update &215.01.2021
